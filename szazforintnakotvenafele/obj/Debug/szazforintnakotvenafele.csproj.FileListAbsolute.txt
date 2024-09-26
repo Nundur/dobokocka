@@ -1,0 +1,15 @@
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\obj\Debug\szazforintnakotvenafele.csprojAssemblyReference.cache
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\obj\Debug\MainWindow.g.cs
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\obj\Debug\App.g.cs
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\obj\Debug\szazforintnakotvenafele_MarkupCompile.cache
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\obj\Debug\szazforintnakotvenafele_MarkupCompile.lref
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\bin\Debug\szazforintnakotvenafele.exe.config
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\bin\Debug\szazforintnakotvenafele.exe
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\bin\Debug\szazforintnakotvenafele.pdb
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\obj\Debug\MainWindow.baml
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\obj\Debug\szazforintnakotvenafele.g.resources
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\obj\Debug\szazforintnakotvenafele.Properties.Resources.resources
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\obj\Debug\szazforintnakotvenafele.csproj.GenerateResource.cache
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\obj\Debug\szazforintnakotvenafele.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\obj\Debug\szazforintnakotvenafele.exe
+C:\Users\tanulo\source\repos\szazforintnakotvenafele\szazforintnakotvenafele\obj\Debug\szazforintnakotvenafele.pdb
